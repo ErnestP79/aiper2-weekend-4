@@ -10,15 +10,15 @@ from datetime import datetime
 from urllib.parse import quote
 
 USERS = {
-    # "UKlimowicz": "Urszula Klimowicz",
+    "UKlimowicz": "Urszula Klimowicz",
     "ewaschoen": "Ewa Schoen",
     "Kinga-cz": "Kinga Czoków",
     "kruczykm": "Mateusz Kruczyk",
     "ErnestP79": "Ernest Pisarek",
     "emiliadyrek": "Emilia Dyrek",
     "Michal-02": "Michał Strąk",
-    "aawchimkow-debug": "Aleksy Maj-Pyszyński",
-    # "h4rdstyler96": "Krzysztof Bednarczyk",
+    # "aawchimkow-debug": "Aleksy Maj-Pyszyński",
+    "h4rdstyler96": "Krzysztof Bednarczyk",
     "lesniewski-praca": "Łukasz Leśniewski",
     "training-jj": "Joanna Janowska",
     "johnslavik": "Bartosz Sławecki",
